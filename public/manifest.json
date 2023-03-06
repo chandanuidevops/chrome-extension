@@ -1,0 +1,25 @@
+{
+    "short_name": "YES SECURITIES",
+    "name": "Yes Securities",
+    "description": "Base Level Extension for Yes Securities",
+    "manifest_version": 3,
+    "version": "0.0.1",
+    "icons": {
+        "16": "favicon.ico",
+        "48": "logo.png",
+       "128": "logo128.png"
+    },
+    "permissions": [],
+
+    "action": {
+      "default_popup": "index.html",
+      "default_title": "Yes Securities",
+      "default_icon": {
+      "16": "favicon.ico",
+      "32": "logo.png",
+      "48": "logo128.png",
+      "128": "logo128.png"
+      }
+      }
+ 
+  }
